@@ -1,3 +1,7 @@
+// here selection sorting - we select the minimum number of the array and then 
+// we push it to the starting in first round, then it continues to n - 1 round,
+//  in first round the minimum element is pushed to the right place. 
+// The over all time complexity of the code is O(n ) and space complexity is O(1).
 #include<iostream>
 using namespace std;
 void selectionSort(int arr[],int n){
