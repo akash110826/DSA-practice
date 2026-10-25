@@ -11,4 +11,8 @@ My personal playground for mastering Data Structure consistently solving problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash110826/DSA-practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/akash110826/DSA-practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
