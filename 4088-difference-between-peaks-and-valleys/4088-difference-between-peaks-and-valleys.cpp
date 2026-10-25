@@ -6,7 +6,7 @@ public:
             if(nums[i] > nums[i + 1] && nums[i] > nums[i - 1]){
                 peak += nums[i];
             }
-            if(nums[i] < nums[i + 1] && nums[i] < nums[i - 1])
+              else  if(nums[i] < nums[i + 1] && nums[i] < nums[i - 1])
             {
                 valley += nums[i];
             }
