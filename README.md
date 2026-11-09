@@ -8,6 +8,7 @@ My personal playground for mastering Data Structure consistently solving problem
 | ------- |
 | [0001-two-sum](https://github.com/akash110826/DSA-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akash110826/DSA-practice/tree/master/0011-container-with-most-water) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akash110826/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akash110826/DSA-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ My personal playground for mastering Data Structure consistently solving problem
 | ------- |
 | [0007-reverse-integer](https://github.com/akash110826/DSA-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/akash110826/DSA-practice/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akash110826/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akash110826/DSA-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
